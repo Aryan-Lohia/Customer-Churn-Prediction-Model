@@ -2,12 +2,12 @@
 
 # About Dataset
 
-#Telco Customer Churn
-_Focused customer retention programs_
-_Context_
+#Telco Customer Churn/
+_Focused customer retention programs_/
+_Context_/
 "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 
-_Content_
+_Content_/
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 The data set includes information about:
