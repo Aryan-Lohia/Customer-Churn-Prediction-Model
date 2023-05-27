@@ -16,4 +16,5 @@ The data set includes information about:\
 - Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
-Link: <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn"/>
+Link: <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn">Click Here</a>
+
